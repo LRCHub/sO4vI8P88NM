@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Thriller",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-03-15T13:49:05.935476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give Up the Ghost (Thriller Houseghost Rmx)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/01_Give_Up_the_Ghost_(Thriller_Houseghost_Rmx)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_Thriller_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_Thriller_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hide and Seek (Thriller Jill Extended Mix)",
+      "artist": "Dannii Minogue",
+      "has_synced": false,
+      "path": "select/04_Hide_and_Seek_(Thriller_Jill_Extended_Mix)_Dannii_Minogue.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Billie Jean 2008 Kanye West Mix - Thriller 25th Anniversary Remix Featuring Kanye West",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_Billie_Jean_2008_Kanye_West_Mix_-_Thriller_25th_Anniversary_Remix_Featuring_Kany_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Billie Jean 2008 Kanye West Mix (Thriller 25th Anniversary Remix)",
+      "artist": "Michael Jackson Kanye West",
+      "has_synced": true,
+      "path": "select/06_Billie_Jean_2008_Kanye_West_Mix_(Thriller_25th_Anniversary_Remix)_Michael_Jackson_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vincent Price Excerpt From \"Thriller\" Voice-Over Session - Thriller 25th Anniversary Voice-Over Session",
+      "artist": "Vincent Price",
+      "has_synced": false,
+      "path": "select/07_Vincent_Price_Excerpt_From__Thriller__Voice-Over_Session_-_Thriller_25th_Anniver_Vincent_Price.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vincent Price Excerpt From \"Thriller\" Voice-Over Session (Thriller 25th Anniversary Voice-Over Session)",
+      "artist": "Vincent Price",
+      "has_synced": false,
+      "path": "select/08_Vincent_Price_Excerpt_From__Thriller__Voice-Over_Session_(Thriller_25th_Annivers_Vincent_Price.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Girl Is Mine (2008 with will.i.am) (with will.i.am) - Thriller 25th Anniversary Remix",
+      "artist": "Michael Jackson feat. will.i.am",
+      "has_synced": true,
+      "path": "select/09_The_Girl_Is_Mine_(2008_with_will.i.am)_(with_will.i.am)_-_Thriller_25th_Annivers_Michael_Jackson_feat._will.i.am.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thriller (Megamix)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/10_Thriller_(Megamix)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wanna Be Startin' Somethin' 2008 with Akon (Thriller 25th Anniversary Remix)",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/11_Wanna_Be_Startin'_Somethin'_2008_with_Akon_(Thriller_25th_Anniversary_Remix)_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thriller",
+      "artist": "Scandroid",
+      "has_synced": true,
+      "path": "select/12_Thriller_Scandroid.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beat It 2008 (Thriller 25th Anniversary Remix) [feat. Fergie]",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_Beat_It_2008_(Thriller_25th_Anniversary_Remix)_[feat._Fergie]_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beat It 2008 (Thriller 25th Anniversary remix)",
+      "artist": "Michael Jackson feat․ Fergie",
+      "has_synced": true,
+      "path": "select/14_Beat_It_2008_(Thriller_25th_Anniversary_remix)_Michael_Jackson_feat._Fergie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Billie Jean 2008 (Thriller 25th Anniversary Remix) [feat. Kanye West]",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/15_Billie_Jean_2008_(Thriller_25th_Anniversary_Remix)_[feat._Kanye_West]_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Billie Jean 2008 (Thriller 25th Anniversary remix)",
+      "artist": "Michael Jackson feat․ Kanye West",
+      "has_synced": true,
+      "path": "select/16_Billie_Jean_2008_(Thriller_25th_Anniversary_remix)_Michael_Jackson_feat._Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "For All Time (Outtake from the Original \"Thriller\" Sessions)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/17_For_All_Time_(Outtake_from_the_Original__Thriller__Sessions)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thriller",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_01_Thriller_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Thriller",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_02_Thriller_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Thriller",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_03_Thriller_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Thriller",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_04_Thriller_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Thriller",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_05_Thriller_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Thriller",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_06_Thriller_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Thriller",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_07_Thriller_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Thriller",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_08_Thriller_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Thriller",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_09_Thriller_マイケル・ジャクソン.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Thriller",
+      "artist": "マイケル・ジャクソン",
+      "has_synced": false,
+      "path": "select/pl_10_Thriller_マイケル・ジャクソン.txt"
+    }
+  ]
+}
